@@ -1,22 +1,20 @@
-# Yiğit Bayrak
+### Hi, I'm Yigit 👋
 
-Software Engineering student based in Portugal, interested in full-stack development, backend systems, data infrastructure and financial markets.
+Full-stack developer focused on fintech tooling, trading systems, and modern web platforms.
 
-My long-term direction is the intersection of software engineering and quantitative finance.
+- Building tools at the intersection of software engineering and quantitative finance
+- Stack: TypeScript, React, Next.js, Python, PostgreSQL, Supabase
+- Interested in trading systems, risk-management tooling, and data-driven dashboards
+- Portfolio: [algowolf.vercel.app](https://algowolf.vercel.app)
 
-## Current Focus
+### Featured Projects
 
-- Python and data-oriented development
-- TypeScript / JavaScript and full-stack web systems
-- Backend architecture and databases
-- Docker, Linux, cloud infrastructure and Kubernetes
-- Financial markets and discretionary trading
-- Quantitative finance and algorithmic trading
+- **[Trade Risk Engine](https://github.com/AlgoWolfx/RiskManagment)** - Trading account & risk-management dashboard for tracking performance and position-level decisions
+- **[ICT Killzone Reminder Bot](https://github.com/AlgoWolfx/Killzonebot)** - Telegram bot for automated trading-session reminders
+- **[LifeManagement Budget](https://github.com/AlgoWolfx/Budgetx)** - Personal finance dashboard built with React & TypeScript
+- **[Portfolio Website](https://github.com/AlgoWolfx/portfoliomben)** - Personal site built with React, TypeScript & Supabase
 
-## Trading
+### Client Work (case studies)
 
-I actively follow indices, FX and commodities. My discretionary market analysis uses ICT (Inner Circle Trader) concepts and terminology, while I am increasingly focused on systematic research, automation and quantitative methods.
-
-## What I'm Building Toward
-
-I use independent projects to improve both engineering fundamentals and practical system design, with the goal of building reliable software and trading-related tools backed by data.
+- Restaurant ordering platform - full-stack site with a PostgreSQL backend (production)
+- Local business website for a cleaning-services company - Next.js - [Live](https://websitesi-lilac.vercel.app)

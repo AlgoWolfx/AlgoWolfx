@@ -1,12 +1,22 @@
-# Hello, I'm Yiğit 
+# Yiğit Bayrak
 
-## About Me
-- A passionate ICT trader and enthusiast.
-- Focused on markets like NQ, ES, EURUSD, and XAUSD.
-- Embracing and implementing ICT (Inner Circle Trader) terminology in my trading strategies.
-- Always exploring new perspectives in market analysis and trading methodologies.
+Software Engineering student based in Portugal, interested in full-stack development, backend systems, data infrastructure and financial markets.
 
-<div style="display: flex; justify-content: space-around;">
-    <img src="https://raw.githubusercontent.com/GeraltXeth/GeraltXeth/main/thirsty-oh.gif" alt="Thirsty GIF" width="450"/>
-    <img src="https://raw.githubusercontent.com/GeraltXeth/GeraltXeth/main/soulja-boy-pepe.gif" alt="Soulja Boy Pepe GIF" width="400"/>
-</div>
+My long-term direction is the intersection of software engineering and quantitative finance.
+
+## Current Focus
+
+- Python and data-oriented development
+- TypeScript / JavaScript and full-stack web systems
+- Backend architecture and databases
+- Docker, Linux, cloud infrastructure and Kubernetes
+- Financial markets and discretionary trading
+- Quantitative finance and algorithmic trading
+
+## Trading
+
+I actively follow indices, FX and commodities. My discretionary market analysis uses ICT (Inner Circle Trader) concepts and terminology, while I am increasingly focused on systematic research, automation and quantitative methods.
+
+## What I'm Building Toward
+
+I use independent projects to improve both engineering fundamentals and practical system design, with the goal of building reliable software and trading-related tools backed by data.

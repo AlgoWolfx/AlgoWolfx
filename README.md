@@ -29,7 +29,7 @@ I build websites, web products and the tools I use for trading. I run [EGORA Dig
 
 ### Stack
 
-**Daily:** TypeScript · JavaScript · React · Next.js · Python · GSAP · PostgreSQL · Supabase · Cloudflare · Vercel
+**Daily:** TypeScript · JavaScript · React · Next.js · Python · GSAP · PostgreSQL · Supabase · Cloudflare · Self hosted servers
 
 **Learning:** Go · Rust · data structures and algorithms · quantitative methods
 

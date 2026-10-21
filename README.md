@@ -1,20 +1,36 @@
-### Hi, I'm Yigit 👋
+# Yiğit Osman Bayrak
 
-Full-stack developer focused on fintech tooling, trading systems, and modern web platforms.
+**Full-stack developer · Software Engineering student · Building toward quantitative trading**
 
-- Building tools at the intersection of software engineering and quantitative finance
-- Stack: TypeScript, React, Next.js, Python, PostgreSQL, Supabase
-- Interested in trading systems, risk-management tooling, and data-driven dashboards
-- Portfolio: [algowolf.vercel.app](https://algowolf.vercel.app)
+I build fast, production web products and the tools I use to trade. Founder of [EGORA Digital](https://egoradigital.com), a remote web studio, and 2nd-year Software Engineering student at Simon Kuznets Kharkiv National University of Economics (expected 2028). Based in Portugal, open to roles and internships in Germany and across the EU.
 
-### Featured Projects
+[Portfolio](https://yigitbayrak.me) · [LinkedIn](https://www.linkedin.com/in/yigitgeralt) · [Email](mailto:dryigitx.x@gmail.com)
 
-- **[Trade Risk Engine](https://github.com/AlgoWolfx/RiskManagment)** - Trading account & risk-management dashboard for tracking performance and position-level decisions
-- **[ICT Killzone Reminder Bot](https://github.com/AlgoWolfx/Killzonebot)** - Telegram bot for automated trading-session reminders
-- **[LifeManagement Budget](https://github.com/AlgoWolfx/Budgetx)** - Personal finance dashboard built with React & TypeScript
-- **[Portfolio Website](https://github.com/AlgoWolfx/portfoliomben)** - Personal site built with React, TypeScript & Supabase
+---
 
-### Client Work (case studies)
+### Live products
 
-- Restaurant ordering platform - full-stack site with a PostgreSQL backend (production)
-- Local business website for a cleaning-services company - Next.js - [Live](https://websitesi-lilac.vercel.app)
+| Project | What it is | Link |
+| --- | --- | --- |
+| **Ribox** | 13 privacy-first everyday tools (image, video, QR, text) that run entirely in the browser — files never leave the device. Installable on mobile, 6 languages, plus a free MCP server so AI assistants (Claude, ChatGPT, Cursor, Gemini) can call the tools. | [ribox.app](https://ribox.app) |
+| **EGORA Digital** | Studio site and brand for my web studio: multilingual (EN / TR / PT / DE), local SEO, structured data and AI-search visibility. 7 sites shipped, including client work. | [egoradigital.com](https://egoradigital.com) |
+| **Portfolio** | Cinematic portfolio — Next.js 16 static export, GSAP scroll scenes, Lenis smooth scroll, deployed on Cloudflare Workers. | [yigitbayrak.me](https://yigitbayrak.me) · [code](https://github.com/AlgoWolfx/yigit-bayrak-portfolio) |
+
+**Concept builds** — scroll-driven and WebGL experiments: [Burger](https://burger.egoradigital.com) · [Atelier (WebGL cloth table)](https://atelier.egoradigital.com) · [Coffee](https://coffee.egoradigital.com) · [Restaurant](https://restaurant.egoradigital.com)
+
+### Trading & finance tooling
+
+- **[Trade Risk Engine](https://github.com/AlgoWolfx/RiskManagment)** — trading account & risk-management dashboard for performance and position-level decisions
+- **[ICT Killzone Reminder Bot](https://github.com/AlgoWolfx/Killzonebot)** — Telegram bot for automated trading-session alerts
+- **[LifeManagement Budget](https://github.com/AlgoWolfx/Budgetx)** — personal finance dashboard (React, TypeScript)
+
+### Stack
+
+**Use daily:** TypeScript · JavaScript · React · Next.js · Python · GSAP · PostgreSQL · Supabase · Cloudflare · Vercel
+**Learning now:** Go · Rust · data structures & algorithms · quantitative methods for trading
+**Interested in:** cybersecurity, low-latency systems, market microstructure
+
+### Right now
+
+- Studying DSA and system design to go deeper on backend and performance
+- Moving my trading tools from discretionary dashboards toward systematic, backtested strategies in Python

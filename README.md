@@ -1,6 +1,6 @@
-# Yiğit Osman Bayrak
-
-**Full stack developer · Software Engineering student · Moving into quantitative trading**
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Yiğit Osman Bayrak, Full Stack Software Engineer" width="100%">
+</p>
 
 I build websites, web products and the tools I use for trading. I run [EGORA Digital](https://egoradigital.com), a small remote web studio, and I am a second year Software Engineering student at Simon Kuznets Kharkiv National University of Economics, graduating in 2028. Based in Portugal and open to roles and internships across Europe.
 

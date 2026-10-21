@@ -23,7 +23,6 @@ I build websites, web products and the tools I use for trading. I run [EGORA Dig
 | Project | What it does |
 | --- | --- |
 | **Backtesting App** | Tests trading strategies against historical price data and shows how they would have performed before any real money is used. |
-| **[Trade Risk Engine](https://github.com/AlgoWolfx/RiskManagment)** | Dashboard that tracks trading account performance and the risk taken on each position. |
 | **[ICT Killzone Bot](https://github.com/AlgoWolfx/Killzonebot)** | Telegram bot that sends alerts before the main trading sessions open. |
 | **[LifeManagement Budget](https://github.com/AlgoWolfx/Budgetx)** | Personal finance dashboard built with React and TypeScript. |
 
